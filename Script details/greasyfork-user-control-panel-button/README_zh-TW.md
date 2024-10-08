@@ -89,12 +89,12 @@
 
 > ### 🔍你可能在找GreasyFork相關腳本
 > - [**GreasyFork適用於增強**](https://greasyfork.org/scripts/497317): 腳本詳情頁增加適用於連結增加點擊開啟網頁，複製網頁,輪胎搜尋
-> - [**GrreasyFork 用戶發布的腳本資料視覺化**](https://greasyfork.org/scripts/508968): 使用Chart.js獲取和可視化獲取用戶腳本數據，並在使用者個人主頁產生圖表在下方顯示詳細安裝情況
+> - [**GrreasyFork 用戶發布的腳本資料視覺化**](https://greasyfork.org/scripts/508968): 使用Chart.js獲取和可視化獲取用戶腳本數據，並在使用者個人主頁產生圖表在下方顯示詳細安裝狀況
 > - [**GreaysFork 增強 WebHook同步設定**](https://greasyfork.org/scripts/506717): 這個腳本可以幫助你快速輸入腳本同步訊息，並批量增加多個國家的語言代碼，而不用一個個地點擊選擇框再去對應的網址。
 > - [**GreasyFork Markdown toobar**](https://greasyfork.org/scripts/505164): 在論壇預設使用 Markdown 格式，添加格式幫助連結及 Markdown 工具列紹
 > - [**GreasyFork 顯示腳本評分**](https://greasyfork.org/scripts/501119): 腳本清單新增評價分數
 > - [**GreasyFork 進階搜尋**](https://greasyfork.org/scripts/505215): 使用谷歌搜尋 GreasyFork 和 SleazyFork 上體文字 
-> - [**GreasyFork 導覽列增強**](https://greasyfork.org/scripts/501880): 增強greasyfork導覽列,增加用戶列表,使用者控制台等
+> - [**GreasyFork 導覽列增強**](https://greasyfork.org/scripts/501880): 增强greasyfork导航栏,增加用戶列表,使用者控制台等
 > - [**Greasyfork膠水工匠**](https://greasyfork.org/scripts/497346): 增強greasyfork,複製程式碼，腳本下載，精確時間到秒，主頁清理，討論一鍵舉報，腳本清單跳轉代碼添加下載 美化查看程式碼顯示程式碼引用文件，顯示腳本圖示，跳轉成人腳本等等一些操作
 > - [**Greasyfork 通知助手**](https://greasyfork.org/scripts/506345): 當你的腳本或你參與的討論有新回應時，腳本會在網頁上以模態視窗顯示最新的討論內容。
 > - [**Script Finder油猴腳本查找器**](https://greasyfork.org/scripts/498904): Script Finder 是一個使用者腳本（userscript），它可以幫助你在任何網站上尋找和管理使用者腳本
@@ -131,19 +131,23 @@
 <img height="6px" width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 > ### 🔍你可能在找 ChatGPT相關腳本
-> - [**ChatGPT程式碼字體縮小**](https://greasyfork.org/scripts/505209): 讓 ChatGPT 程式碼字體變小 dqfmar1u
-> - [**ChatGPT 聊天複製程式碼按鈕**](https://greasyfork.org/scripts/509598): 在 chatgpt.com 上代碼區塊的右下角添加一個帶有動畫的“複製程式碼”按鈕
-> - [**ChatGPT 字元計數器**](https://greasyfork.org/scripts/506166): 添加一個字元计数器到输入框，限制為 32732 個字元。（ChatGPT 的限制是 32732 個字元。）
+> - [**ChatGPT程式碼字體縮小**](https://greasyfork.org/scripts/505209): 讓 ChatGPT 程式碼字體變小
+> - [**ChatGPT 聊天複製程式碼按鈕**](https://greasyfork.org/scripts/509598): 在 chatgpt.com 上代碼區塊的右下角添加一個帶有動畫的“复制代码”按钮
+> - [**ChatGPT 字元計數器**](https://greasyfork.org/scripts/506166): 添加一個字元计数器到输入框，限制為 32732 個字元。（ChatGPT 的限制是 32732 个字符。）
 > - [**ChatGPT 折疊自己訊息和最大寬度**](https://greasyfork.org/scripts/504901): 自動折疊由你發送的長訊息，節省螢幕空間。允許你設定聊天視窗的最大寬度，使得長訊息不會超出指定範圍。
 
 <img height="6px" width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 > ### 🔍你可能在找 網頁相關腳本
 > - [**網頁寫入剪輯版授權管理員**](https://greasyfork.org/scripts/497403): 禁止網頁向剪輯版拉屎，綠色為放行，紅色禁止，橙色臨時方向
-> - [**解除CSDN登入複製限制**](https://greasyfork.org/scripts/505207): 去你媽的 CSDN 登入複製，無需登入即可複製程式碼框內容
+> - [**解除CSDN登入複製限制**](https://greasyfork.org/scripts/505207): 去你媽的 CSDN 登录复制，無需登入即可複製程式碼框內容
 > - [**絢麗漸層美化網頁表格**](https://greasyfork.org/scripts/507036): 自動為網頁上的表格所有欄位套用顏色漸層美化.
+> - [**網頁高亮關鍵字+(推薦)**](https://greasyfork.org/scripts/498906): 對網頁上的文字進行高亮顯示
+> - [**高亮網頁文本_迷你版**](https://greasyfork.org/scripts/498905): 在網頁上自訂關鍵字突出顯示包括滾動時動態載入的內容
 > - [**小視窗預覽**](https://greasyfork.org/scripts/504880): 拖曳連結時在彈出視窗中開啟鏈接，並在打開前提供預覽，使用 Edge 的預讀技術。同時在小窗口打開時在背後添加壓克力效果。
 > - [**去除連結下劃線**](https://greasyfork.org/scripts/498625): 去除網頁連結的下劃線
+> - [**上下滾動小按鈕**](https://greasyfork.org/scripts/497251): 頁面右側新增上下滾動按鈕
+> - [**一鍵置頂和置底按鈕**](https://greasyfork.org/scripts/500255): 修改自Greasyfork使用者腳本 為網頁新增置頂和置底按鈕，方便在長頁面中快速移動到頂部或底部。 增加向下滾動時按鈕變色，3秒內無滾動自動停止
 
 <img height="6px" width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
@@ -152,9 +156,9 @@
 > - [**GitHub 文件列表美化器**](https://greasyfork.org/scripts/508047): GitHub 文件清單美化器是一個使用者腳本，用於增強 GitHub 倉庫中的文件顯示效果。它可以為文件和資料夾添加顏色，並將文件類型圖示替換為小圖像，使得程式碼庫更加易於瀏覽和管理。
 > - [**Github 代碼語言列表顯示全部**](https://greasyfork.org/scripts/509889): 擴充 Github 儲存庫上的語言列表，顯示每種語言，而不是將小部分隱藏在 “其他” 下
 > - [**GitHub 自動確認設備授權**](https://greasyfork.org/scripts/508956): 在GitHub授權頁面自動輸入授權碼與自動確認。
-> - [**GitHub資料夾下载**](https://greasyfork.org/scripts/505496): 新增一個下載按鈕，允許輕鬆下載特定的 GitHub 資料夾。
+> - [**GitHub資料夾下载**](https://greasyfork.org/scripts/505496): 新增一個下載按鈕，允許輕鬆下載特定的 GitHub 文件夹。
 > - [**GitHub下載單一文件和複製文件URL**](https://greasyfork.org/scripts/505501): 在每個文件行的末尾新增按鈕，以複製原始文件 URL 和下載文件
-> - [**github顯示倉庫大小**](https://greasyfork.org/scripts/502291): 在Github查看倉庫和搜尋倉庫時顯示倉庫大小
+> - [**🤠 Github 增強助手 倉庫顯示大小 不活躍開發警告 倉庫內快捷跳轉用户其他仓库 🤠**](https://greasyfork.org/scripts/502291): 在Github查看倉庫和搜尋倉庫時顯示倉庫大小 ，不活躍開發警告，仓库内快捷跳转.
 > - [**GitHub Sort by Date**](https://greasyfork.org/scripts/505218): 倉庫列表文件排序方式改為日期降序，方便查看最新更新的文件。
 
 <img height="6px" width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
@@ -167,23 +171,15 @@
 
 > ### 🔍你可能在找 GreasyFork相關腳本
 > - [**GreasyFork適用於增強**](https://greasyfork.org/scripts/497317): 腳本詳情頁增加適用於連結增加點擊開啟網頁，複製網頁,輪胎搜尋
-> - [**GrreasyFork 用戶發布的腳本資料視覺化**](https://greasyfork.org/scripts/508968): 使用Chart.js獲取和可視化獲取用戶腳本數據，並在使用者個人主頁產生圖表在下方顯示詳細安裝情況
+> - [**GrreasyFork 用戶發布的腳本資料視覺化**](https://greasyfork.org/scripts/508968): 使用Chart.js獲取和可視化獲取用戶腳本數據，並在使用者個人主頁產生圖表在下方顯示詳細安裝狀況
 > - [**GreaysFork 增強 WebHook同步設定**](https://greasyfork.org/scripts/506717): 這個腳本可以幫助你快速輸入腳本同步訊息，並批量增加多個國家的語言代碼，而不用一個個地點擊選擇框再去對應的網址。
 > - [**GreasyFork Markdown toobar**](https://greasyfork.org/scripts/505164): 在論壇預設使用 Markdown 格式，添加格式幫助連結及 Markdown 工具列紹
 > - [**GreasyFork 顯示腳本評分**](https://greasyfork.org/scripts/501119): 腳本清單新增評價分數
 > - [**GreasyFork 進階搜尋**](https://greasyfork.org/scripts/505215): 使用谷歌搜尋 GreasyFork 和 SleazyFork 上體文字 
-> - [**GreasyFork 導覽列增強**](https://greasyfork.org/scripts/501880): 增強greasyfork導覽列,增加用戶列表,使用者控制台等
+> - [**GreasyFork 導覽列增強**](https://greasyfork.org/scripts/501880): 增强greasyfork导航栏,增加用戶列表,使用者控制台等
 > - [**Greasyfork膠水工匠**](https://greasyfork.org/scripts/497346): 增強greasyfork,複製程式碼，腳本下載，精確時間到秒，主頁清理，討論一鍵舉報，腳本清單跳轉代碼添加下載 美化查看程式碼顯示程式碼引用文件，顯示腳本圖示，跳轉成人腳本等等一些操作
 > - [**Greasyfork 通知助手**](https://greasyfork.org/scripts/506345): 當你的腳本或你參與的討論有新回應時，腳本會在網頁上以模態視窗顯示最新的討論內容。
 > - [**Script Finder油猴腳本查找器**](https://greasyfork.org/scripts/498904): Script Finder 是一個使用者腳本（userscript），它可以幫助你在任何網站上尋找和管理使用者腳本
-
-<img height="6px" width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
-
-> ### 🔍你可能在找 相關腳本
-> - [**網頁高亮關鍵字+(推薦)**](https://greasyfork.org/scripts/498906): 對網頁上的文字進行高亮顯示
-> - [**高亮網頁文本_迷你版**](https://greasyfork.org/scripts/498905): 在網頁上自訂關鍵字突出顯示包括滾動時動態載入的內容
-> - [**上下滾動小按鈕**](https://greasyfork.org/scripts/497251): 頁面右側新增上下滾動按鈕
-> - [**一鍵置頂和置底按鈕**](https://greasyfork.org/scripts/500255): 修改自Greasyfork使用者腳本 為網頁新增置頂和置底按鈕，方便在長頁面中快速移動到頂部或底部。 增加向下滾動時按鈕變色，3秒內無滾動自動停止
 
 <img height="6px" width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 

@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name              ChatGPT Character Counter Limit (CCCL)
 // @description       Adds a character counter to the input field with a limit of 32732 characters. (ChatGPT has a limit of 32732 characters.)
-// @name:zh-CN        ChatGPT 字符计数器限制 (CCCL)
+// @name:zh-CN        ChatGPT 字符计数器限制
 // @description:zh-CN 添加一个字符计数器到输入框，限制为 32732 个字符。（ChatGPT 的限制是 32732 个字符。）
-// @name:ar           ChatGPT حد عداد الأحرف (CCCL)
+// @name:ar           ChatGPT حد عداد الأحرف 
 // @description:ar    إضافة عداد الأحرف إلى مربع الإدخال，يقتصر على 32732 الشخصيات。（ChatGPT الحد هو 32732 الشخصيات。）
-// @name:bg           ChatGPT Ограничение на брояча на знаци (CCCL)
+// @name:bg           ChatGPT Ограничение на брояча на знаци
 // @description:bg    Добавете брояч на символи към полето за въвеждане，ограничен до 32732 герои。（ChatGPT Ограничението е 32732 герои。）
 // @name:cs           ChatGPT Limit počítadla znaků (CCCL)
 // @description:cs    Do vstupního pole přidejte počítadlo znaků，omezena na 32732 postavy。（ChatGPT Limit je 32732 postavy。）
 // @name:da           ChatGPT Tegntællergrænse (CCCL)
 // @description:da    Tilføj en tegntæller til inputfeltet，begrænset til 32732 tegn。（ChatGPT Grænsen er 32732 tegn。）
-// @name:de           ChatGPT Zeichenzählerlimit (CCCL)
+// @name:de           ChatGPT Zeichenzählerlimit
 // @description:de    Fügen Sie dem Eingabefeld einen Zeichenzähler hinzu，beschränkt auf 32732 Charaktere。（ChatGPT Die Grenze ist 32732 Charaktere。）
 // @name:el           ChatGPT Όριο μετρητή χαρακτήρων (CCCL)
 // @description:el    Προσθέστε έναν μετρητή χαρακτήρων στο πλαίσιο εισαγωγής，περιορίζεται σε 32732 χαρακτήρες。（ChatGPT Το όριο είναι 32732 χαρακτήρες。）
